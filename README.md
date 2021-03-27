@@ -1,4 +1,3 @@
-![terrible-snap](https://user-images.githubusercontent.com/56667293/112734959-fc7a9a80-8f6e-11eb-9299-3b291ce4db75.PNG)
 # terriblytinytales
 **The** app was made with the help of react JS acting as the frontend supporting all the UI components and the API calls to the server were handled with the help of node JS which made further calls to an external API provided by the company which returned the result and it was displayed on the frontend of the application.
 ### FRONTEND [REACT JS]
@@ -18,3 +17,5 @@
 ![Loading](https://user-images.githubusercontent.com/56667293/112734911-a7d71f80-8f6e-11eb-80d2-bce3f5ce1bea.PNG)
 <br/>The Loader components displays a Loading message while the api calls are being executed and since it takes time a loader animation is shown to keep the client a bit engaged while the table which displays the result, is being rendered. The loader animation is conditionally rendered when the resData array has some sort of value input in it which is only possible when the api call is completed and the array is assigned to the state.
  
+##### OUTPUT!!
+![terrible-snap](https://user-images.githubusercontent.com/56667293/112734959-fc7a9a80-8f6e-11eb-9299-3b291ce4db75.PNG)
