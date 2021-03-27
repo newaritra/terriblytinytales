@@ -19,3 +19,13 @@
  
 ##### OUTPUT!!
 ![terrible-snap](https://user-images.githubusercontent.com/56667293/112734959-fc7a9a80-8f6e-11eb-9299-3b291ce4db75.PNG)
+
+
+### BACKEND [NODE JS]
+#### TECH/DEPENDENCIES USED:
+1.Node Js<br/>
+2.Express
+3.CORS
+
+#### FUNCTIONALITIES:
+The express module is installed in the backend and an express app is created is created. The app is used to handle the POST request that the axios request made from the frontend react app. It takes the incoming array and loops over each roll number and makes an external API call for each roll number. The response from the external API is pushed in an array and at the end of fetching all the results the response is is sent back to the frontend which handles it. The "cors" module was reuired in thenode js/express application because the API calls from the client side was not allowed due to data safety protocols and the calls needed to be made made from the server side using CORS.   
