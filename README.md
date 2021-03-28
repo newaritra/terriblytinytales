@@ -35,7 +35,7 @@ The express module is installed in the backend and an express app is created is 
 ![Result](https://user-images.githubusercontent.com/56667293/112735582-14ecb400-8f73-11eb-9c0d-e7309de4d803.PNG)
 ###### 2)1,2,3,4,5
 ![image](https://user-images.githubusercontent.com/56667293/112735620-73b22d80-8f73-11eb-8261-2f511384e6d3.png)
-###### 3)1,2,3,james,js,5
+###### 3)1,2,3,james,js,5[Skips if not a number]
 ![image](https://user-images.githubusercontent.com/56667293/112750961-fcb77c00-8fe8-11eb-98d6-6d032736ea35.png)
 ###### 4)EMPTY FIELD
 ![Screenshot (63)](https://user-images.githubusercontent.com/56667293/112735691-f2a76600-8f73-11eb-83ce-eee1db28c514.png)
